@@ -1,0 +1,11 @@
+host: 'sample'
+interfaces: [
+    { 'type': 1, 'ip': '192.168.0.12', 'main': 1, 'useip': 1, 'dns': '', 'port': '10050'},
+]
+groups: [
+    { 'groupid': '6' },
+]
+templates: [
+    { 'templateid': '10104' },
+    { 'templateid': '10102' },
+]
