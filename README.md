@@ -9,7 +9,7 @@ This tool can operate add host or get information like hosts or groups easily by
 * argparse
 
 ## Description
-#### 1.Initializae config
+#### 1.Initialize config
 First, you need to make /etc/yunctl/zabbix/config.yml to use zabbix API.
 It's not encrypted. 
 ```bash
